@@ -498,6 +498,7 @@ mOrTaL💀
 - [Dennis Lee](https://github.com/dennislwm)
 - [Caden Gerard](https://github.com/caden3ds)
 - [kirtirajsinh Parmar](https://github.com/kirtirajsinh)
+- [Althea McMillian] (https://www.linkedin.com/in/althea-mcmillian-2565a9a)
 - [noble ordu](https://github.com/nobleordu)
 - [kiran](https://github.com/tcs-kiran)
 - [K Avinash Nayak](https://github.com/kan12340987)
